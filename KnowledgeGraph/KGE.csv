@@ -1,0 +1,39 @@
+序号,模型名称,提出年份,参考文献,备注
+1,RESCAL,2011,nickel2011,
+2,SE,2011,bordes2011,Structured Embedding
+3,NTN,2013,socher2013,
+4,TransE,2013,bordes2013,
+5,DistMult,2014,yang2014,
+6,ERMLP,2014,dong2014,
+7,TransH,2014,wang2014,
+8,UM,2014,bordes2014,Unstructured Model
+9,KG2E,2015,he2015,
+10,TransD,2015,ji2015,
+11,TransR,2015,lin2015,
+12,ComplEx,2016,trouillon2016,
+13,HolE,2016,nickel2016,
+14,TransF,2016,feng2016,
+15,ProjE,2017,shi2017,
+16,CP,2018,lacroix2018,基于hitchcock1927
+17,ComplExLiteral,2018,kristiadi2018,LiteralE with ComplEx interaction
+18,ConvE,2018,dettmers2018,
+19,ConvKB,2018,nguyen2018,
+20,DistMultLiteral,2018,kristiadi2018,LiteralE with DistMult interaction
+21,DistMultLiteralGated,2018,kristiadi2018,LiteralE with Gated DistMult interaction
+22,RGCN,2018,schlichtkrull2018,R-GCN
+23,SimplE,2018,kazemi2018,
+24,TorusE,2018,ebisu2018,
+25,CrossE,2019,zhang2019b,
+26,DistMA,2019,shi2019,
+27,ERMLPE,2019,sharifzadeh2019,ERMLP扩展
+28,MuRE,2019,balazevic2019b,
+29,QuatE,2019,zhang2019,
+30,RotatE,2019,sun2019,
+31,TuckER,2019,balazevic2019,
+32,AutoSF,2020,zhang2020,
+33,BoxE,2020,abboud2020,
+34,CompGCN,2020,vashishth2020,
+35,PairRE,2020,chao2020,
+36,InductiveNodePiece,2021,galkin2021,
+37,NodePiece,2021,galkin2021,
+38,FixedModel,-,,Mock模型，无公开提出年份
